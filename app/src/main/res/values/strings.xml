@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Retrofit Androchef</string>
+    <string name="load_list_using_retrofit">Load List Using Retrofit</string>
 </resources>
